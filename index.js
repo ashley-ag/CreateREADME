@@ -52,11 +52,11 @@ const md = (answers) =>
   # ${answers.title} 
 
 ## Table of Contents
-[Description](#Description)
-[Installation Instructions](#Installation)
-[Usage Instructions](#Usage)
-[How to Contribute](#Contribute)
-[How to Test This Application](#Test)
+[Description](#Description) <br>
+[Installation Instructions](#Installation) <br>
+[Usage Instructions](#Usage) <br>
+[How to Contribute](#Contribute) <br> 
+[How to Test This Application](#Test) <br>
 
 ## <a id="Description"></a> Description 
 ${answers.description}
